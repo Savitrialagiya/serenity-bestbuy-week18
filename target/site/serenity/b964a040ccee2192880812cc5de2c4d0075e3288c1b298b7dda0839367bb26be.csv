@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products crud with steps","This will create new product","FAILURE","2023-01-03T22:20:17.267Z[Europe/London]","0.0","2.52"
+"Products crud with steps","Verify if the product was added","FAILURE","2023-01-03T22:20:19.815Z[Europe/London]","0.0","0.03"
+"Products crud with steps","Update the product information and verify the updated information","FAILURE","2023-01-03T22:20:19.917Z[Europe/London]","0.0","0.05"
+"Products crud with steps","Delete the product and verify if the product is deleted!","ERROR","2023-01-03T22:20:19.966Z[Europe/London]","0.0","0.03"
